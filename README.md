@@ -1,10 +1,10 @@
 ## Olá! Eu sou Carolina Santiago.
 
-Minha área de conhecimento abrange principalmente o design de websites e mini-projetos em Python. No momento, estou aprendendo outras linguagens como Javascript e me aproundando em outras linguagens.
+Sou estudante de Engenharia de Computação e Informação na UFRJ e meus interesses abrangem desde o desenvolvimento de software à eletrônica.
 
-- ✨ Tenho experiência com Front-end (HTML/CSS, Web design);
-- 👓 Atualmente aprimorando minhas habilidades em Python;
-- 📫 Contato para projetos: ctt.carolinasantiago@gmail.com
+- ✨ Habilidades em Python + Front-end;
+- 👓 Atualmente conhecendo novas linguagens;
+- 📫 Contato: ctt.carolinasantiago@gmail.com
 - 🎲 Ela/dela
 
 ### Contato:
