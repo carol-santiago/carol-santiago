@@ -3,9 +3,9 @@
 Sou estudante de Engenharia de Computação e Informação na UFRJ e meus interesses abrangem desde o desenvolvimento de software à eletrônica.
 
 - ✨ Habilidades em Python + Front-end;
-- 👓 Atualmente conhecendo novas linguagens;
+- 👓 Sempre em busca de aprendizado e aprimoramento em novas linguagens e tecnologias;
 - 📫 Contato: ctt.carolinasantiago@gmail.com
-- 🎲 Ela/dela
+- 🎲 Ela/Dela
 
 ### Contato:
 
