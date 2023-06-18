@@ -13,11 +13,6 @@ Sou estudante de Engenharia de Computação e Informação na UFRJ e meus intere
 <a href="https://www.linkedin.com/in/carolina-santiago-de-medeiros-5201251b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ##
 
-<div>
-  <a href="https://github.com/carol-santiago">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-santiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
