@@ -1,4 +1,4 @@
-<h2>Olá! Eu sou Carolina Santiago.<h2/>
+## Olá! Eu sou Carolina Santiago.
 
 Sou estudante de Engenharia de Computação e Informação na UFRJ e meus interesses abrangem desde o desenvolvimento de software à eletrônica.
 
