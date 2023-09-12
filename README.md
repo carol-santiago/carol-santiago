@@ -1,6 +1,6 @@
 ## Olá! Eu sou Carolina Santiago.
 
-Sou estudante de Engenharia de Computação e Informação na UFRJ e meus interesses abrangem desde o desenvolvimento de software à eletrônica.
+Sou estudante de Engenharia de Computação e Informação na UFRJ. Algumas informações sobre mim são:
 
 - Habilidades em Python + Front-end;
 - Forte interesse na área de Machine Learning;
