@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Computação e Informação na UFRJ. Algumas informações sobre mim são:
 
-- Habilidades em Python + Front-end;
+- Habilidades em Data Science + Front-end;
 - Forte interesse na área de Machine Learning;
 - Sempre em busca de aprendizado e aprimoramento em novas tecnologias;
 - 📫 Contato: ctt.carolinasantiago@gmail.com
