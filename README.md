@@ -3,6 +3,7 @@
 Sou estudante de Engenharia de Computação e Informação na UFRJ. Algumas informações sobre mim são:
 
 - Habilidades em Data Science + Front-end;
+- Experiência em GameDev;
 - Forte interesse na área de Machine Learning;
 - Sempre em busca de aprendizado e aprimoramento em novas tecnologias;
 - 📫 Contato: ctt.carolinasantiago@gmail.com
